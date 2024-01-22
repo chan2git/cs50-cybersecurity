@@ -1,4 +1,5 @@
 # Lecture 0: Securing Accounts
+The below notes are based on HarvardX's CS50 - Introduction to Cybersecurity, Lecture 0: Securing Accounts. You can watch at: https://www.youtube.com/watch?v=kUovJpWqEMk&list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE&index=2
 
 
 ### Authentication
@@ -97,3 +98,32 @@ Software or malware that is recording keystrokes where the record will be sent b
 ### Credential Stuffing
 
 The process where a threat actor identifies a list of credentials belonging to users for a particular application, and uses this information to 'stuff' the credentials into a different application.
+
+
+### Social Engineering
+
+When a threat actor attempts to manipulate and exploit a victim to complete an action or to give up information. Often times, it involves exploiting trust, authority, and or human vulnerabilities to achieve malicious goals.
+
+
+### Phishing
+
+A tactic that preys on the victim's familiarity with established household names, contacts, platform interfaces, etc (e.g. fake login portals, fake links, slightly mispelled names of legitimate companies). in order to manipulate the victim into giving up personal information.
+
+
+
+### Machine-in-the-Middle Attack
+There are several machines between you and the end platform you're visiting. If best practices aren't used and data isn't encrypted correctly, there may be intermediaries that are able to compromise the data between your connection and the end platform.
+
+### Single Sign-On
+
+Refers to using a credential already used in a typically more established platform (Google, Facebook, etc.) in order to establish and log into another platform, instead of creating a separate new account username and password. The new platform does not receive or validate the credential, but trusts the validating platform instead.
+
+
+### Password Managers
+
+An application that can generate a random password based on your specifications and often offer features such as saving/manage your password and tracking the URL where the credential is saved for. Typically, the user needs to remain one primary password that is used to access the password manager application itself. Examples include:
+
+
+### Passkeys
+
+A pair of values consisting of public/private key that is shared between two points (e.g. your personal device and application; your host client machine and a server, etc.). The passkeys are used to authenticate.
