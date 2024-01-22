@@ -1,0 +1,2 @@
+# Lecture 1: Securing Accounts
+The below notes are based on HarvardX's CS50 - Introduction to Cybersecurity, Lecture 1: Securing Data You can watch at: https://www.youtube.com/watch?v=X3DVaMnl5n8&list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE&index=3
