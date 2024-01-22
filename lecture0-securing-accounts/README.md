@@ -74,11 +74,11 @@ NIST provides the following recommendations for password best practices:
     - Users may forget their passwords and have a hard time tracking it
 
 
-#### Password Lockout
+### Password Lockout
 
 Multiple failed attempts may cause a lockout policy/procedure to activate which can make threat actors to wait. This increases the amount of effort it takes to gain access. After x amount of failed attempts, the device (e.g. a phone) could wipe itself clean. This makes the threat actor's attempt more risky and may make them move on to easier targets.
 
-#### Two-Factor Authentication / Multi-Factor Authentication
+### Two-Factor Authentication / Multi-Factor Authentication
 
 An authentication method that requires multiple types of authentication factors to login.
 - Knowledge factor is a factor that may be information only you should know (e.g. a password string)
