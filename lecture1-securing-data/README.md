@@ -1,5 +1,5 @@
 # Lecture 1: Securing Accounts
-The below notes are based on HarvardX's CS50 - Introduction to Cybersecurity, Lecture 1: Securing Data You can watch at: https://www.youtube.com/watch?v=X3DVaMnl5n8&list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE&index=3
+The below notes are based on HarvardX's CS50 - Introduction to Cybersecurity, Lecture 1: Securing Data You can watch at: https://www.youtube.com/watch?v=X3DVaMnl5n8
 
 
 ### Hashing
@@ -90,6 +90,6 @@ A state in which your device's data is fully encrypted when it's not actively in
 
 Malware that encrypts a victim's data. Threat actors will try to extort victims into paying a ransom in order to decrypt and get back their data.
 
-### Quantum Computin
+### Quantum Computing
 
 Typically bits can be either 0 or 1. Quantum computing allows for a bit to be in multiple states at once. In theory, if adversaries have access to quantum computing then it's possible to brute force and crack strong algorithms.

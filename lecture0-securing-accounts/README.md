@@ -1,5 +1,5 @@
 # Lecture 0: Securing Accounts
-The below notes are based on HarvardX's CS50 - Introduction to Cybersecurity, Lecture 0: Securing Accounts. You can watch at: https://www.youtube.com/watch?v=kUovJpWqEMk&list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE&index=2
+The below notes are based on HarvardX's CS50 - Introduction to Cybersecurity, Lecture 0: Securing Accounts. You can watch at: https://www.youtube.com/watch?v=kUovJpWqEMk
 
 
 ### Authentication
